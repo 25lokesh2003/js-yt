@@ -20,4 +20,5 @@ let state;//undefined
 
 //object
 
-console.log(typeof "lokesh");
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined
